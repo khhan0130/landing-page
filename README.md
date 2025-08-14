@@ -1,1 +1,3 @@
-# A CSS flexbox project for styling websites
+# Landing Page
+
+A CSS flexbox project for styling websites
